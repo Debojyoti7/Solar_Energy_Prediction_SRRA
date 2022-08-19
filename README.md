@@ -14,6 +14,7 @@ Link to the paper : [Pre-print]{}
 4. [Pretrained Models](#Pretrained-Models)
 5. [Running the ML Models](#Running-the-ML-Models)
 6. [Citation](#Citation)
+7. [License and Copyright](#License-and-Copyright)
 
 
 ## Overview
@@ -103,4 +104,16 @@ If you find our work (i.e. the code, the theory/concept, or the dataset useful i
 ~~~
 
 ~~~
+
+
+## License and Copyright
+
+
+~~~
+Copyright 2022 | All the authors and contributors of this repository as mentioned above.
+
+License Agreement
+
+~~~
+
 
