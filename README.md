@@ -22,10 +22,18 @@ The complete bird’s eye view of the proposed Test bed Framework depicting the 
 
 1) Install dependencies
 
+ \fbox{My text!}
+
 2) Data Processing and Analysis
+
+ \fbox{My text!}
 
 3) Train
 
+ \fbox{My text!}
+
 4) Test
+
+ \fbox{My text!}
 
 
