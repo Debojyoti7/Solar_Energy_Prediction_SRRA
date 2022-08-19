@@ -6,4 +6,9 @@ The complete bird’s eye view of the proposed Test bed Framework depicting the 
 
 ![My Image](assets/Solar-Flow-Intro.png)
 
+Our generic prediction framework which is used for all the learning models we use in this study.
+
+![My Image](assets/Model_diagram.png)
+
+
 1) Install dependencies
