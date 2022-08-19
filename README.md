@@ -8,7 +8,7 @@ Link to the paper : [Pre-print]{}
 
 # Table of Contents
 
-1. [Overview of our Test bed](#1)
+1. [Overview: The official implementation of our Solar Power Prediction Test bed](#1)
 2. [Prediction Framework](#2)
 
 
