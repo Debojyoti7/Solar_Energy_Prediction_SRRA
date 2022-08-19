@@ -9,7 +9,7 @@ Link to the paper : [Pre-print]{}
 # Table of Contents
 
 1. [Overview: The official implementation of our Solar Power Prediction Test bed](#1)
-2. [Prediction Framework](#2)
+2. [Our generic prediction framework which is used for all the machine learning models we use in this study](#2)
 
 
 ## Overview: The official implementation of our Solar Power Prediction Test bed  
