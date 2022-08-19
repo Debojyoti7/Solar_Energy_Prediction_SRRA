@@ -11,7 +11,7 @@ Link to the paper : [Pre-print]{}
 1. [Overview](#Overview)
 2. [The Prediction Framework](#The-Prediction-Framework)
 3. [Dataset](#Dataset)
-4. [Code Help!](#Code-Help!)
+4. [Running the ML Models](#Running-the-ML-Models)
 5. [Citation](#Citation)
 
 
@@ -26,7 +26,7 @@ The complete bird’s eye view of the proposed Test bed Framework depicting the 
 
 ##  The Prediction Framework
 
-Our generic prediction framework which is used for all the machine learning models we use in this study: 
+Our generic prediction framework which is used for all the machine learning (ML) models we use in this study: 
 
 ![My Image](assets/Model_diagram.png)
 
@@ -47,8 +47,11 @@ The place (in West Bengal (WB), East India) for Data collection (depicted in map
 ~~~
 
 
-##  Code Help!
+##  Running the ML Models
 
+Need Help with the Code!!
+
+Don't worry we got your back :) 
 
 
 1) Install dependencies and Environment Setup
