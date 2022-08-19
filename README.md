@@ -114,7 +114,7 @@ If you find our work (i.e. the code, the theory/concept, or the dataset useful i
 Copyright 2022 | All the authors and contributors of this repository as mentioned above.
 ----------------------------------------------------------------------------------------
 
-Please check the License Agreement [LICENSE (https://github.com/Debojyoti7/Solar_Energy_Prediction_SRRA/blob/cfdb902851f92174c8f2f7d68b8ac8b1842a6d41/LICENSE)
+Please check the License Agreement [LICENSE](LICENSE)
 
 
 
