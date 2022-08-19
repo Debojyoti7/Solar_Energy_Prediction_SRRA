@@ -1,4 +1,5 @@
-# Solar_Energy_Prediction_SRRA
+# Computational Solar Energy - Ensemble Learning Techniques for Prediction of
+Solar Power Generation based on Meteorological Parameters in Eastern India
 
 The official implementation of our Solar Power Prediction Test bed.  
 
