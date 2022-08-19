@@ -116,7 +116,7 @@ Copyright 2022 | All the authors and contributors of this repository as mentione
 
 ~~~
 
-Please check the License Agreement [License](LICENSE)
+Please check the [License](LICENSE) Agreement.
 
 
 
