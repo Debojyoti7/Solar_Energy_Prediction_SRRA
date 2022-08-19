@@ -18,5 +18,6 @@ The complete bird’s eye view of the proposed Test bed Framework depicting the 
 
 ![My Image](assets/Model_diagram.png)
 
+> **_NOTE:_**  The note content.
 
 1) Install dependencies
