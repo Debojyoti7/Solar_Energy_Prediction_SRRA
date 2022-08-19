@@ -30,7 +30,7 @@ Please see the paper for more details.
 
 Our generic prediction framework which is used for all the machine learning (ML) models we use in this study: 
 
-Here, we use a set of trained and tested Ensemble Learning models. Please see the paper for more details. 
+Here, we use a set of customized, trained, and tested Ensemble Learning models. Please see the paper for more details. 
 
 ![My Image](assets/Model_diagram.png)
 
