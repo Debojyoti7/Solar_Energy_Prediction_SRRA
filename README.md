@@ -21,12 +21,16 @@ The official implementation of our Solar Power Prediction Test bed:
  
 The complete bird’s eye view of the proposed Test bed Framework depicting the workflow for Data Collection/Curation, Data Mining/Analytics and Supervised Learning Methods study, analysis, and experimentation on custom regional meteorological data (here data from East India) for Solar power forecasting and prediction.
 
+Please see the paper for more details.
+
 ![My Image](assets/Solar-Flow-Intro.png)
 
 
 ##  The Prediction Framework
 
 Our generic prediction framework which is used for all the machine learning (ML) models we use in this study: 
+
+Here, we use a set of trained and tested Ensemble Learning models. Please see the paper for more details. 
 
 ![My Image](assets/Model_diagram.png)
 
