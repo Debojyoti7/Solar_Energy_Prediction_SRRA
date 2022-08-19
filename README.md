@@ -13,7 +13,7 @@ The complete bird’s eye view of the proposed Test bed Framework depicting the 
 ![My Image](assets/Solar-Flow-Intro.png)
 
 
-The place (in West Bengal (WB), East India) for Data collection (depicted in map: 22.5551° N, 88.3062° E) with general meteorological  conditions (Pictures collected from Google Images).
+The place (in West Bengal (WB), East India) for Data collection (depicted in map: 22.5551° N, 88.3062° E) with general meteorological conditions (Pictures collected from Google Images).
 
 
 ![My Image](assets/data_coll.png)
@@ -28,7 +28,7 @@ The place (in West Bengal (WB), East India) for Data collection (depicted in map
 
 <h2> Dataset</h2> 
 
-> **_NOTE:_**  Kindly fillup the agreement form to get access to the novel Meteorological Dataset in this work.
+> **_NOTE:_**  Kindly fillup the agreement form to get access to the novel Meteorological Dataset used in this work.
 
 ~~~
 
