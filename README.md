@@ -8,12 +8,12 @@ Link to the paper : [Pre-print]{}
 
 # Table of Contents
 
-1. [Overview: The official implementation of our Solar Power Prediction Test bed](<h2> Overview: The official implementation of our Solar Power Prediction Test bed  </h2>)
+1. [Overview: The official implementation of our Solar Power Prediction Test bed](#<h2> Overview: The official implementation of our Solar Power Prediction Test bed  </h2>)
 2. 
 
 
 
-<h2> Overview: The official implementation of our Solar Power Prediction Test bed  </h2>
+#<h2> Overview: The official implementation of our Solar Power Prediction Test bed  </h2>
 
 The complete bird’s eye view of the proposed Test bed Framework depicting the workflow for Data Collection/Curation, Data Mining/Analytics and Supervised Learning Methods study, analysis, and experimentation on custom regional meteorological data (here data from East India) for Solar power forecasting and prediction.
 
