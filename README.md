@@ -68,7 +68,7 @@ The place (in West Bengal (WB), East India) for Data collection (depicted in map
 
 <h2> Citation </h2> 
 
-If you find our work useful in your research, please cite our paper as follows:
+If you find our work (i.e. the code, the theory/concept, or the dataset useful in your research or developemnt, please cite our paper as follows:
 
 ~~~
 
