@@ -18,13 +18,13 @@ The complete bird’s eye view of the proposed Test bed Framework depicting the 
 ![My Image](assets/Solar-Flow-Intro.png)
 
 
-<h2> Our generic prediction framework which is used for all the machine learning models we use in this study </h2>
+##  Our generic prediction framework which is used for all the machine learning models we use in this study 
 
 ![My Image](assets/Model_diagram.png)
 
 > **_NOTE:_**  The experimental setup and computing resourses used.
 
-<h2> Dataset</h2> 
+##  Dataset
 
 The place (in West Bengal (WB), East India) for Data collection (depicted in map: 22.5551° N, 88.3062° E) with general meteorological conditions (Pictures collected from Google Images).
 
@@ -39,7 +39,7 @@ The place (in West Bengal (WB), East India) for Data collection (depicted in map
 ~~~
 
 
-<h2> Code Help!</h2> 
+##  Code Help!
 
 
 
@@ -70,7 +70,7 @@ The place (in West Bengal (WB), East India) for Data collection (depicted in map
 
 
 
-<h2> Citation </h2> 
+##  Citation 
 
 If you find our work (i.e. the code, the theory/concept, or the dataset useful in your research or development activities, please cite our paper as follows:
 
