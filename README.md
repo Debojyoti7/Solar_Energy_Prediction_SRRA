@@ -18,6 +18,14 @@ The complete bird’s eye view of the proposed Test bed Framework depicting the 
 
 ![My Image](assets/Model_diagram.png)
 
-> **_NOTE:_**  The note content.
+> **_NOTE:_**  The experimental setup and computing resourses used.
 
 1) Install dependencies
+
+2) Data Processing and Analysis
+
+3) Train
+
+4) Test
+
+
