@@ -22,7 +22,7 @@ The place (in West Bengal (WB), East India) for Data collection (depicted in map
 
 1) Install dependencies
 
-> dsfsfs
+> 
 
 2) Data Processing and Analysis
 
