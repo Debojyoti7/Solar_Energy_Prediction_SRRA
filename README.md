@@ -114,7 +114,7 @@ If you find our work (i.e. the code, the theory/concept, or the dataset useful i
 Copyright 2022 | All the authors and contributors of this repository as mentioned above.
 ----------------------------------------------------------------------------------------
 
-License Agreement
+Please check the License Agreement [here](LICENSE)
 
 ~~~
 
