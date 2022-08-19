@@ -10,7 +10,7 @@ Link to the paper : [Pre-print]{}
 
 1. [My first title](#my-first-title)
 2. [My second title](#my-second-title)
-3. [Overview: The official implementation of our Solar Power Prediction Test bed](#Overview:_The_official_implementation_of_our_Solar_Power_Prediction _Test_bed)
+3. [Overview: The official implementation of our Solar Power Prediction Test bed](#Overview:-The-official-implementation-of-our-Solar-Power-Prediction-Test-bed)
 
 ## My first title
 Some text.
