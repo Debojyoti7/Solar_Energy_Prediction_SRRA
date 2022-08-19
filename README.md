@@ -8,13 +8,7 @@ Link to the paper : [Pre-print]{}
 
 # Table of Contents
 
-1. [My first title](#my-first-title)
-2. [My second title](#my-second-title)
-3. [Overview](#Overview)
-
-## My first title
-Some text.
-## My second title
+1. [Overview](#Overview)
 
 
 ## Overview
