@@ -9,7 +9,7 @@ Link to the paper : [Pre-print]{}
 # Table of Contents
 
 1. [Overview](#Overview)
-
+1. [The Prediction Framework](#The-Prediction-Framework)
 
 ## Overview
 
@@ -20,7 +20,9 @@ The complete bird’s eye view of the proposed Test bed Framework depicting the 
 ![My Image](assets/Solar-Flow-Intro.png)
 
 
-##  Our generic prediction framework which is used for all the machine learning models we use in this study 
+##  The Prediction Framework
+
+Our generic prediction framework which is used for all the machine learning models we use in this study: 
 
 ![My Image](assets/Model_diagram.png)
 
