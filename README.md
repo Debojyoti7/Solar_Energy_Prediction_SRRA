@@ -20,7 +20,15 @@ The place (in West Bengal (WB), East India) for Data collection (depicted in map
 
 > **_NOTE:_**  The experimental setup and computing resourses used.
 
-1) Install dependencies
+<h2> Dataset</h2> 
+
+> **_NOTE:_**  Kindly fillup the agreement form to get access to the novel Meteorological Dataset in this work.
+
+~~~
+
+~~~
+
+1) Install dependencies and Environment Setup
 
 ~~~
 
