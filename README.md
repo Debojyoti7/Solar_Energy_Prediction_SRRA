@@ -13,7 +13,7 @@ The complete bird’s eye view of the proposed Test bed Framework depicting the 
 ![My Image](assets/Solar-Flow-Intro.png)
 
 
-<h2> Our generic prediction framework which is used for all the learning models we use in this study </h2>
+<h2> Our generic prediction framework which is used for all the machine learning models we use in this study </h2>
 
 ![My Image](assets/Model_diagram.png)
 
