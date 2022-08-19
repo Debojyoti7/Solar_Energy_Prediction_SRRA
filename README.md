@@ -22,27 +22,27 @@ The place (in West Bengal (WB), East India) for Data collection (depicted in map
 
 1) Install dependencies
 
-~ ~ ~
+~~~
 
-~ ~ ~
+~~~
 
 2) Data Processing and Analysis
 
-~ ~ ~
+~~~
 
-~ ~ ~
+~~~
 
 
 3) Train
 
-~ ~ ~
+~~~
 
-~ ~ ~
+~~~
 
 4) Test
 
-~ ~ ~
+~~~
 
-~ ~ ~
+~~~
 
 
