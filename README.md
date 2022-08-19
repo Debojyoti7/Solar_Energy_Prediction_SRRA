@@ -1,3 +1,5 @@
+
+=======
 # Computational Solar Energy - Ensemble Learning Techniques for Prediction of Solar Power Generation based on Meteorological Parameters in Eastern India
 
 This joint project is a collaboration between [BITS Pilani](https://www.bits-pilani.ac.in/), [TCS Research (Kolkata)](https://www.tcs.com/research-and-innovation), [Infosys (Hyderabad)](https://www.infosys.com/), and [IIEST (Shibpur)](https://www.iiests.ac.in/), India, Asia
