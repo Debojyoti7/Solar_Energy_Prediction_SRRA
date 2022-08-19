@@ -11,8 +11,9 @@ Link to the paper : [Pre-print]{}
 1. [Overview](#Overview)
 2. [The Prediction Framework](#The-Prediction-Framework)
 3. [Dataset](#Dataset)
-4. [Running the ML Models](#Running-the-ML-Models)
-5. [Citation](#Citation)
+4. [Pretrained Models](#Pretrained-Models)
+5. [Running the ML Models](#Running-the-ML-Models)
+6. [Citation](#Citation)
 
 
 ## Overview
@@ -49,6 +50,16 @@ The place (in West Bengal (WB), East India) for Data collection (depicted in map
 ~~~
 
 ~~~
+
+##  Pretrained Models
+
+> **_NOTE:_**  Kindly fillup the google form to get request for the pretrained models.
+
+
+~~~
+
+~~~
+
 
 
 ##  Running the ML Models
