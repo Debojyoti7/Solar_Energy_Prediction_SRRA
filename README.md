@@ -53,7 +53,7 @@ The place (in West Bengal (WB), East India) for Data collection (depicted in map
 
 ##  Pretrained Models
 
-> **_NOTE:_**  Kindly fillup the google form to get request for the pretrained models.
+> **_NOTE:_**  Kindly fillup the google form to get access of the pretrained models.
 
 
 ~~~
