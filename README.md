@@ -64,9 +64,9 @@ The place (in West Bengal (WB), East India) for Data collection (depicted in map
 
 ##  Running the ML Models
 
-Need Help with the Code!!
+Need Help with the Code!! Don't worry we got your back :) 
 
-Don't worry we got your back :) 
+Here is how you can train/test the models from scratch. 
 
 
 1) Install dependencies and Environment Setup
