@@ -2,6 +2,8 @@
 
 This joint project is a collaboration between [BITS Pilani](https://www.bits-pilani.ac.in/), [TCS Research (Kolkata)](https://www.tcs.com/research-and-innovation), [Infosys (Hyderabad)](https://www.infosys.com/), and [IIEST (Shibpur)](https://www.iiests.ac.in/)
 
+Project Members - [Debojyoti Chakraborty](https://www.linkedin.com/in/debojyoti-chakraborty-ba03a4179/?originalSubdomain=in), [Jayeeta Mondal](https://scholar.google.com/citations?user=lW7H0AoAAAAJ&hl=en), [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua), and [Ankur Bhattacharya](https://universe.bits-pilani.ac.in/Hyderabad/bhattacharjee/Profile)
+
 <h2> Overview: The official implementation of our Solar Power Prediction Test bed  </h2>
 
 The complete bird’s eye view of the proposed Test bed Framework depicting the workflow for Data Collection/Curation, Data Mining/Analytics and Supervised Learning Methods study, analysis, and experimentation on custom regional meteorological data (here data from East India) for Solar power forecasting and prediction.
