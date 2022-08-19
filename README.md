@@ -10,7 +10,7 @@ The complete bird’s eye view of the proposed Test bed Framework depicting the 
 The place (in West Bengal (WB), East India) for Data collection (depicted in map: 22.5551° N, 88.3062° E) with general meteorological  conditions (Pictures collected from Google Images).
 
 
-![My Image](assets/data coll.pdf)
+![My Image](assets/data coll.png)
 
 
 
