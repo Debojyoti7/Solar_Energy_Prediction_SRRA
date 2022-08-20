@@ -54,7 +54,7 @@ We acquired the solar power generation data with consequent meteorological  para
 ![My Image](assets/data_coll.png)
 
 
-Please check the [Code base](src) for data pre-processing and analysis.
+Please check the [Code base](src) for data pre-processing and analysis. This also contains the code for Feature Selection and Dimentionality Reduction
 
 > **_NOTE:_**  Kindly fillup the agreement form to get access to the novel Meteorological Dataset used in this work.
 
