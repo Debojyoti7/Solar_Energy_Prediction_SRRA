@@ -21,7 +21,7 @@ Link to the paper : [Pre-print]{}
 
 ## Overview
 
-The official implementation of our Solar Power Prediction Test bed:  
+The official implementation of our Solar Power Prediction Testbed Benchmark:  
  
 The complete bird’s eye view of the proposed Test bed Framework depicting the workflow for Data Collection/Curation, Data Mining/Analytics and Supervised Learning Methods study, analysis, and experimentation on custom regional meteorological data (here data from East India) for Solar power forecasting and prediction.
 
