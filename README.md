@@ -80,7 +80,7 @@ Need Help with the Code!! Don't worry we got your back :)
 Here is how you can train/test the models from scratch. 
 
 
-1) Install dependencies and Environment Setup
+1) Install dependencies and Environment setup
 
 ~~~
 
