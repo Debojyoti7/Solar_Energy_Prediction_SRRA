@@ -36,9 +36,11 @@ Our generic prediction framework which is used for all the machine learning (ML)
 
 Here, we use a set of customized, trained, and tested Ensemble Learning models. Please see the paper for more details. 
 
-Please check the [Code base](src) for training and testing the ML models.
+
 
 ![My Image](assets/Model_diagram.png)
+
+Please check the [Code base](src) for training and testing the ML models.
 
 > **_NOTE:_**  The experimental setup and computing resourses used.
 
@@ -51,6 +53,8 @@ We acquired the solar power generation data with consequent meteorological  para
 
 ![My Image](assets/data_coll.png)
 
+
+Please check the [Code base](src) for data pre-processing and analysis.
 
 > **_NOTE:_**  Kindly fillup the agreement form to get access to the novel Meteorological Dataset used in this work.
 
