@@ -1,8 +1,8 @@
 
-=======
+
 # Computational Solar Energy - Ensemble Learning Techniques for Prediction of Solar Power Generation based on Meteorological Parameters in Eastern India
 
-This joint project is a collaboration between [BITS Pilani](https://www.bits-pilani.ac.in/), [TCS Research (Kolkata)](https://www.tcs.com/research-and-innovation), [Infosys (Hyderabad)](https://www.infosys.com/), and [IIEST (Shibpur)](https://www.iiests.ac.in/), India, Asia
+This joint project is a collaboration between [BITS Pilani](https://www.bits-pilani.ac.in/), [TCS Research (Kolkata)](https://www.tcs.com/research-and-innovation), [Infosys AI and Automation (Bangalore)](https://www.infosys.com/), and [IIEST (Shibpur)](https://www.iiests.ac.in/), India, Asia
 
 Project Members - [Debojyoti Chakraborty](https://www.linkedin.com/in/debojyoti-chakraborty-ba03a4179/?originalSubdomain=in), [Jayeeta Mondal](https://scholar.google.com/citations?user=lW7H0AoAAAAJ&hl=en), [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua), and [Ankur Bhattacharya](https://universe.bits-pilani.ac.in/Hyderabad/bhattacharjee/Profile)
 
@@ -21,9 +21,9 @@ Link to the paper : [Pre-print]{}
 
 ## Overview
 
-The official implementation of our Solar Power Prediction Test bed:  
+The official implementation of our Solar Power Prediction Testbed Benchmark:  
  
-The complete bird’s eye view of the proposed Test bed Framework depicting the workflow for Data Collection/Curation, Data Mining/Analytics and Supervised Learning Methods study, analysis, and experimentation on custom regional meteorological data (here data from East India) for Solar power forecasting and prediction.
+The complete bird’s eye view of the proposed Testbed Framework depicting the workflow for Data Collection/Curation, Data Mining/Analytics and Supervised Learning Methods study, analysis, and experimentation on custom regional meteorological data (here data from East India) for Solar power forecasting and prediction.
 
 Please see the paper for more details.
 
@@ -44,6 +44,8 @@ Here, we use a set of customized, trained, and tested Ensemble Learning models. 
 
 The place (in West Bengal (WB), East India) for Data collection (depicted in map: 22.5551° N, 88.3062° E) with general meteorological conditions (Pictures collected from Google Images).
 
+We acquired the solar power generation data with consequent meteorological  parameter measurement data from Solar Radiation Resource Assessment site [(SRRA)](http://dst-iiestsolarhub.org.in/about_SRRA.php) established (in 2014) in the roof top of Indian Institute of Engineering Science and Technology (IIEST), Shibpur, West Bengal (WB), East India. It is a part of [DST-IIEST Solar Photovoltaic (PV) Hub](http://dst-iiestsolarhub.org.in/about_DST_IIEST_solar_hub.php) which happens to be a joint initiative by Department of Science and Technology (DST), Government of India and Centre of Excellence for Green Energy and Sensor Systems (CEGESS), Indian Institute of Engineering Science and Technology (IIEST), Shibpur.
+
 
 ![My Image](assets/data_coll.png)
 
@@ -56,7 +58,7 @@ The place (in West Bengal (WB), East India) for Data collection (depicted in map
 
 ##  Pretrained Models
 
-> **_NOTE:_**  Kindly fillup the google form to get access of the pretrained models.
+> **_NOTE:_**  Kindly fillup the google form to get access to the pretrained models.
 
 
 ~~~
