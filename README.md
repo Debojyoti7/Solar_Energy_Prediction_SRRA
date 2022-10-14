@@ -58,10 +58,6 @@ Please check the [Codebase](src) for data pre-processing and analysis. This also
 
 > **_NOTE:_**  Kindly fillup the agreement form to get access to the novel Meteorological Dataset used in this work.
 
-~~~
-Please fillup the [Dataset Agreement Form](https://drive.google.com/file/d/1ksj2pvd_eTuGq056TiSCD8wiDI_XEX9z/view?usp=sharing) and mail to hbarua@acm.org to get access.
-~~~
-
 Please fillup the [Dataset Agreement Form](https://drive.google.com/file/d/1ksj2pvd_eTuGq056TiSCD8wiDI_XEX9z/view?usp=sharing) and mail to hbarua@acm.org to get access.
 
 ##  Pretrained Models
