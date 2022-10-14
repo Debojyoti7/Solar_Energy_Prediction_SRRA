@@ -64,7 +64,7 @@ Please fillup the [Dataset Agreement Form](https://drive.google.com/file/d/1ksj2
 
 
 
-> **_NOTE:_**  Kindly drop a mail to Hrishav (hbarua@acm.org) to get access to the pretrained models.
+> **_NOTE:_**  Kindly drop a mail to [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua) (hbarua@acm.org) to get access to the pretrained models.
 
 
 
