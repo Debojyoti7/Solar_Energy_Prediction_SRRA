@@ -89,20 +89,20 @@ pip3 install requirements.txt
 2) Data Processing and Analysis
 
 ~~~
-Run notebook Data_analysis
+Run notebook Data_analysis.ipynb
 ~~~
 
 
 3) Train
 
 ~~~
-
+Run notebook Train_ensemble_methods.ipynb
 ~~~
 
 4) Test
 
 ~~~
-
+Run notebook Test_ensemble.ipynb
 ~~~
 
 
