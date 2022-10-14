@@ -59,7 +59,7 @@ Please check the [Codebase](src) for data pre-processing and analysis. This also
 > **_NOTE:_**  Kindly fillup the agreement form to get access to the novel Meteorological Dataset used in this work.
 
 ~~~
-https://github.com/Debojyoti7/Solar_Energy_Prediction_SRRA/blob/main/assets/Dataset_Agreement_Form.pdf
+Please fillup the [Dataset Agreement Form](https://github.com/Debojyoti7/Solar_Energy_Prediction_SRRA/blob/main/assets/Dataset_Agreement_Form.pdf) and mail to hbarua@acm.org to get access.
 ~~~
 
 ##  Pretrained Models
