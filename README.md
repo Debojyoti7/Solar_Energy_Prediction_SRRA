@@ -63,9 +63,9 @@ Please fillup the [Dataset Agreement Form](https://drive.google.com/file/d/1ksj2
 ##  Pretrained Models
 
 
-~~~
+
 > **_NOTE:_**  Kindly drop a mail to Hrishav (hbarua@acm.org) to get access to the pretrained models.
-~~~
+
 
 
 
