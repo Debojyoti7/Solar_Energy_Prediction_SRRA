@@ -68,7 +68,7 @@ Please check the [Codebase](src) for data pre-processing and analysis. This also
 
 
 ~~~
-https://docs.google.com/viewer?url=https://github.com/Debojyoti7/Solar_Energy_Prediction_SRRA/blob/main/assets/Dataset_Agreement_Form.pdf
+<embed src="[https://sumanbogati.github.io/sample.pdf](https://github.com/Debojyoti7/Solar_Energy_Prediction_SRRA/blob/main/assets/Dataset_Agreement_Form.pdf)" type="application/pdf" />
 ~~~
 
 
