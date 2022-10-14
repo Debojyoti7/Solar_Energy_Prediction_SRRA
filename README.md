@@ -83,13 +83,13 @@ Here is how you can train/test the models from scratch.
 1) Install dependencies and Environment setup
 
 ~~~
-
+pip3 install requirements.txt
 ~~~
 
 2) Data Processing and Analysis
 
 ~~~
-
+Run notebook Data_analysis
 ~~~
 
 
