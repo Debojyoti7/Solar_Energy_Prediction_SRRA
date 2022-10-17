@@ -6,7 +6,7 @@ This joint project is a collaboration between [BITS Pilani](https://www.bits-pil
 
 Project Members - [Debojyoti Chakraborty](https://www.linkedin.com/in/debojyoti-chakraborty-ba03a4179/?originalSubdomain=in), [Jayeeta Mondal](https://scholar.google.com/citations?user=lW7H0AoAAAAJ&hl=en), [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua), and [Ankur Bhattacharya](https://universe.bits-pilani.ac.in/Hyderabad/bhattacharjee/Profile)
 
-Link to the paper : [Pre-print]{}
+Link to the paper : Coming soon!!
 
 # Table of Contents
 
@@ -108,7 +108,7 @@ Run notebook Test_ensemble.ipynb
 If you find our work (i.e. the code, the theory/concept, or the dataset useful in your research or development activities, please cite our paper as follows:
 
 ~~~
-
+Coming Soon!!
 ~~~
 
 
