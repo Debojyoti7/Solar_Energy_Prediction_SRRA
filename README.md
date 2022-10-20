@@ -76,7 +76,7 @@ Need Help with the Code!! Don't worry we got your back :)
 Here is how you can train/test the models from scratch. 
 
 
-1) Install dependencies and Environment setup
+1) Install dependencies and setup the environment 
 
 ~~~
 pip3 install requirements.txt
