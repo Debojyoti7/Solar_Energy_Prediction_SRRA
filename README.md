@@ -6,7 +6,7 @@ This joint project has been done by students of [BITS Pilani](https://www.bits-p
 
 Project Members - [Debojyoti Chakraborty](https://www.linkedin.com/in/debojyoti-chakraborty-ba03a4179/?originalSubdomain=in) [Infosys AI and Automation (Bangalore)](https://www.infosys.com/), [Jayeeta Mondal](https://scholar.google.com/citations?user=lW7H0AoAAAAJ&hl=en) [TCS Research (Kolkata)](https://www.tcs.com/research-and-innovation), [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua)  [TCS Research (Kolkata)](https://www.tcs.com/research-and-innovation), and [Ankur Bhattacharya](https://universe.bits-pilani.ac.in/Hyderabad/bhattacharjee/Profile) [BITS Pilani](https://www.bits-pilani.ac.in/)
 
-Acknoeledemnet for dataset :  [IIEST (Shibpur)](https://www.iiests.ac.in/), India, Asia
+Acknowledement for dataset :  [IIEST (Shibpur)](https://www.iiests.ac.in/), India, Asia
 
 Link to the paper : Coming soon!!
 
