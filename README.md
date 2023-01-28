@@ -108,7 +108,19 @@ Run notebook Test_ensemble.ipynb
 If you find our work (i.e. the code, the theory/concept, or the dataset useful in your research or development activities, please cite our paper as follows:
 
 ~~~
-Coming Soon!!
+@article{CHAKRABORTY2023277,
+title = {Computational solar energy – Ensemble learning methods for prediction of solar power generation based on meteorological parameters in Eastern India},
+journal = {Renewable Energy Focus},
+volume = {44},
+pages = {277-294},
+year = {2023},
+issn = {1755-0084},
+doi = {https://doi.org/10.1016/j.ref.2023.01.006},
+url = {https://www.sciencedirect.com/science/article/pii/S1755008423000078},
+author = {Debojyoti Chakraborty and Jayeeta Mondal and Hrishav Bakul Barua and Ankur Bhattacharjee},
+keywords = {Solar PV, Ensemble learning, Meteorological Data, Power prediction},
+abstract = {The challenges in applications of solar energy lies in its intermittency and dependency on meteorological parameters such as; solar radiation, ambient temperature, rainfall, wind-speed etc., and many other physical parameters like dust accumulation etc. Hence, it is important to estimate the amount of solar photovoltaic (PV) power generation for a specific geographical location. Machine learning (ML) models have gained importance and are widely used for prediction of solar power plant performance. In this paper, the impact of weather parameters on solar PV power generation is estimated by several Ensemble ML (EML) models like Bagging, Boosting, Stacking, and Voting for the first time. The performance of chosen ML algorithms is validated by field dataset of a 10kWp solar PV power plant in Eastern India region. Furthermore, a complete test-bed framework has been designed for data mining as well as to select appropriate learning models. It also supports feature selection and reduction for dataset to reduce space and time complexity of the learning models. The results demonstrate greater prediction accuracy of around 96% for Stacking and Voting EML models. The proposed work is a generalized one and can be very useful for predicting the performance of large-scale solar PV power plants also.}
+}
 ~~~
 
 
