@@ -105,7 +105,8 @@ Run notebook Test_ensemble.ipynb
 
 ##  Citation 
 
-If you find our work (i.e. the code, the theory/concept, or the dataset) useful in your research or development activities, please cite our paper as follows:
+If you find our work (i.e. the code, the theory/concept, or the dataset) useful for your research or development activities, please consider citing our work as follows:
+
 
 ~~~
 @article{CHAKRABORTY2023277,
