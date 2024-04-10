@@ -4,7 +4,7 @@
 
 This joint project is a collaboration between [BITS Pilani](https://www.bits-pilani.ac.in/) and [IIEST (Shibpur)](https://www.iiests.ac.in/), India, Asia
 
-Project Members - [Debojyoti Chakraborty](https://www.linkedin.com/in/debojyoti-chakraborty-ba03a4179/?originalSubdomain=in) [(Infosys AI and Automation, Bangalore)](https://www.infosys.com/), [Jayeeta Mondal](https://scholar.google.com/citations?user=lW7H0AoAAAAJ&hl=en) [(TCS Research, Kolkata)](https://www.tcs.com/what-we-do/research), [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua)  [(TCS Research, Kolkata)](https://www.tcs.com/research-and-innovation), and [Ankur Bhattacharya](https://universe.bits-pilani.ac.in/Hyderabad/bhattacharjee/Profile) [(BITS Pilani, Hyderabad)](https://www.bits-pilani.ac.in/)
+Project Members - [Debojyoti Chakraborty](https://www.linkedin.com/in/debojyoti-chakraborty-ba03a4179/?originalSubdomain=in) [(Infosys AI and Automation, Bangalore)](https://www.infosys.com/), [Jayeeta Mondal](https://scholar.google.com/citations?user=lW7H0AoAAAAJ&hl=en) [(TCS Research, Kolkata)](https://www.tcs.com/what-we-do/research), [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua)  [(TCS Research, Kolkata)](https://www.tcs.com/what-we-do/research), and [Ankur Bhattacharya](https://universe.bits-pilani.ac.in/Hyderabad/bhattacharjee/Profile) [(BITS Pilani, Hyderabad)](https://www.bits-pilani.ac.in/)
 
 [Link to the paper](https://www.sciencedirect.com/science/article/pii/S1755008423000078)!!
 
