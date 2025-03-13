@@ -8,9 +8,8 @@ Project Members - [Debojyoti Chakraborty](https://www.linkedin.com/in/debojyoti-
 
 This work is accepted in [Elsevier Renewable Energy Focus](https://www.sciencedirect.com/journal/renewable-energy-focus) with **Impact Factor 4.2**!!
 
-[Link to the accepted paper](https://www.sciencedirect.com/science/article/pii/S1755008423000078)!!
+[Link to the accepted paper](https://www.sciencedirect.com/science/article/pii/S1755008423000078) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Debojyoti7.Solar_Energy_Prediction_SRRA)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
 
 
 
