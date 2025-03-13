@@ -10,6 +10,9 @@ This work is accepted in [Elsevier Renewable Energy Focus](https://www.sciencedi
 
 [Link to the accepted paper](https://www.sciencedirect.com/science/article/pii/S1755008423000078)!!
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
+
+
 
 # Table of Contents
 
